@@ -1,0 +1,27 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    color: #adf0be;
+    box-shadow: 5px 5px 8px #adf0be;
+}
+.note{
+    font-size: 13px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    color: #25aac2;
+    background-color: #adf0be;
+}
+.canvas{
+    border: cadetblue solid 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px darkcyan;
+}
